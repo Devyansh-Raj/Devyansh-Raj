@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/devyansh-raj/">LinkedIn</a> ·
-  <a href="24f3004853@ds.study.iitm.ac.in">Email</a>
+  <a href="mailto:24f3004853@ds.study.iitm.ac.in">Email</a>
 </p>
 
 ---
