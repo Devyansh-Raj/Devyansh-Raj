@@ -14,7 +14,7 @@
 
 ---
 
-## 🔬 About Me
+## About Me
 
 I'm a **Data Science undergraduate at IIT Madras** interested in understanding how machine-learning systems behave — especially when they encounter noisy data, distribution shifts, unreliable retrieved context, or adversarial inputs.
 
@@ -54,7 +54,7 @@ A controlled evaluation environment for studying **instruction–data separation
 
 <td width="50%" valign="top">
 
-### 🔍 [Adversarial Critique-Agent Evaluation](https://github.com/Devyansh-Raj/Adversarial-Critique-Agent)
+### [Adversarial Critique-Agent Evaluation](https://github.com/Devyansh-Raj/Adversarial-Critique-Agent)
 
 **LangGraph · Retrieval · LLM Evaluation**
 
