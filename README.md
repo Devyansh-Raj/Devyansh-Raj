@@ -114,7 +114,7 @@ Research internship focused on temporal modeling of real-world human-manipulatio
 
 ---
 
-## 🧭 What I'm Exploring
+## What I'm Exploring
 
 ```text
                  ┌──────────────────────┐
@@ -156,7 +156,7 @@ The experimental pipeline covered:
 The dataset contained approximately **9,000 real-world videos across six action classes**, including evaluation on out-of-distribution demonstrations.
 
 <details>
-<summary><b>🔬 What I worked on</b></summary>
+<summary><b> What I worked on</b></summary>
 <br>
 
 - Built reproducible PyTorch training and evaluation pipelines
