@@ -144,7 +144,7 @@ I'm particularly interested in questions like:
 
 ## Research Experience
 
-### AI/ML Research Intern — IIT Mandi
+### AI/ML Research Intern - IIT Mandi
 **Mar 2026 – May 2026**
 
 Worked on temporal modeling of human-manipulation demonstrations using **TCN, LSTM, and MS-TCN architectures**.
