@@ -204,7 +204,7 @@ The dataset contained approximately **9,000 real-world videos across six action 
 
 ---
 
-## 📐 How I Like to Work
+## How I Like to Work
 
 ```mermaid
 flowchart LR
